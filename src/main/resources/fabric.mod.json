@@ -3,7 +3,7 @@
   "id": "nvidium",
   "version": "${version}",
   "name": "Nvidium",
-  "description": "Replacement rendering engine for sodium",
+  "description": "Replacement rendering engine for Embeddium",
   "authors": [
     "Cortex"
   ],
@@ -17,6 +17,6 @@
   ],
   "depends": {
     "fabricloader": ">=0.14",
-    "sodium": ["=0.5.7", "=0.5.8"]
+    "embeddium": ">=0.3.0"
   }
 }
